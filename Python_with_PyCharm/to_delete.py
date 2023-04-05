@@ -1,2 +1,0 @@
-def printservice():
-    print('printservice')
